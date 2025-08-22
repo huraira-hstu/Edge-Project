@@ -30,7 +30,7 @@ $$
 \mathcal{L} = - \frac{1}{m} \sum_{i=1}^{m} \left[ y_i \log \hat{y}_i + (1 - y_i) \log (1 - \hat{y}_i) \right], \quad \hat{y}_i = P(y_i=1 \mid x_i)
 $$
 
-Multiple models $\mathcal{M} = \{ \text{LogReg}, \text{NB}, \text{KNN}, \text{SVM}, \text{DT}, \text{RF}, \text{GB}, \text{NN} \}$ are evaluated to find the optimal predictor $f_{\theta^*}^{(k^*)}$.
+Multiple models $\mathcal{M} = \{ \text{LogReg}, \text{NB}, \text{KNN}, \text{SVM}, \text{DT}, \text{RF}, \text{GB}, \text{NN} \}$ are evaluated to find the optimal predictor.
 
 ---
 
