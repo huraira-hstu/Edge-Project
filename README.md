@@ -154,7 +154,7 @@ $$
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/magic-gamma-classification.git
+git clone https://github.com/huraira-hstu/Edge-Project.git
 cd magic-gamma-classification
 
 # Install requirements
